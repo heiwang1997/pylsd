@@ -9,9 +9,9 @@ from setuptools import setup
 
 setup(
     name='pylsd',
-    version='0.0.1',
-    description='pylsd is the python bindings for LSD - Line Segment Detector',
-    author='Gefu Tang',
+    version='0.0.2',
+    description='pylsd is the python bindings for LSD - Line Segment Detector (with py3 support)',
+    author='Gefu Tang, Jiahui Huang',
     author_email='tanggefu@gmail.com',
     license='BSD',
     keywords="LSD",
